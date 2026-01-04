@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1yCjdYcNp5RS6hH3Y2bk_",
+      "username": "admin",
+      "passwordHash": "$2b$10$PuSt6ERbllexztf6SpzoR.Imybp3lp8Nzkh0eEsShZNO.kTw1YXra",
+      "role": "admin",
+      "createdAt": "2025-12-25T09:51:43.028Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "6--_wd45Nhp95EV23LXPq",
+      "name": "可回收物",
+      "description": "易拉罐",
+      "createdAt": "2025-12-25T09:54:38.480Z"
+    }
+  ],
+  "items": [],
+  "records": [],
+  "notices": []
+}
